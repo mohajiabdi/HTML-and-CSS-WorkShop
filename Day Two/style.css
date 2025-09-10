@@ -1,0 +1,23 @@
+/* html {
+  font-size: 16px;
+} */
+h1 {
+  color: green;
+}
+
+h1.heading,
+p {
+  color: red;
+}
+
+#heading {
+  color: purple;
+  font-size: 54px;
+  font-size: 1.2rem;
+  font-family: arial;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
